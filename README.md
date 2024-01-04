@@ -1,2 +1,3 @@
 # megaVE.portifolio.github.io
-My personal portifolio (work in progress)
+My personal portifolio
+(Meu portifólio pessoal)
