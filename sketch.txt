@@ -1,0 +1,39 @@
+Saudações! Meu nome é Vinícius Eduardo e atualmente sou estudante de Ciência da Computação na Universidade Federal de Alfenas, no 6º Período.
+
+Minha maior habilidade como Desenvolvedor de Software é voltada ao Desenvolvimento Web Front End funcional, mas estou em progressão de aprofundar-me na categoria Back End e eventualmente alcançar o posto de Fullstack.
+
+Tenho também conhecimento de outras tecnologias auxiliares e venho buscando ampliar meu conhecimento em novas áreas sempre que possível. Parte de meu conhecimento atual inclui:
+
+## No que tenho proficiência?
+- JavaScript
+- ReactJS
+- HTML 5
+- CSS 3
+- Google Firebase
+- C / C++
+
+## O que sei utilizar?
+- Git / Github
+- Docker
+- Linux
+- Java
+- SCSS / SASS
+- Haskel
+
+## O que estou aprendendo?
+- NodeJS
+- Python 3
+- Bootstrap 5
+- MySQL
+- GIMP
+- React Native
+- Springboot 3
+- C#
+
+Deixo nos repositórios de meu GitHub alguns de meus principais projetos pessoais e de aprendizado que desenvolvi durante a construção de minha carreira, dentre os quais posso destacar:
+
+- Não é o Perguntados: clone do jogo "Perguntados", criado utilizando React e Firebase
+- Livranos (em andamento): plataforma de aulas de Latim online, com atividades teóricas, práticas e fórum interativo para dúvidas
+- Projetos HTML: alguns projetos HTML CSS de Single-Page Applications desenvolvido durante cursos Web
+- Desafios de Programação: atividades de programação diversas com desafios lógicos
+- Meu site pessoal HTML CSS
